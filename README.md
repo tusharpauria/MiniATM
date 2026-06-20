@@ -1,4 +1,5 @@
 #Mini ATM Console Application
+
 A simple console-based ATM application built using Java to practice core programming concepts.
 
 ##Features
