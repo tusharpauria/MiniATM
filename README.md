@@ -1,8 +1,7 @@
-#Mini ATM Console Application
-
+# Mini ATM Console Application
 A simple console-based ATM application built using Java to practice core programming concepts.
 
-##Features
+## Features
 - User login with a 4-digit PIN
 - Maximum 3 login attempts
 - Check account balance
@@ -14,7 +13,7 @@ A simple console-based ATM application built using Java to practice core program
 - Change PIN and re-login
 - Exit the application
 
-##Concepts Used
+## Concepts Used
 This project demonstrates the following Java fundamentals:
 - Variables and Data Types
 - Operators
@@ -26,6 +25,6 @@ This project demonstrates the following Java fundamentals:
 - Input Validation
 - State Management
 
-##Technology Used
+## Technology Used
 - Java
 - IntelliJ IDEA
